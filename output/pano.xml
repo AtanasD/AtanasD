@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.0.2" apprev="17253" start="node1">
+  <panorama id="node1">
+    <input leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" height="1796" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="1796">
+      <level preload="0" height="1796" width="1796" predecode="0"/>
+      <level preload="0" height="898" width="898" predecode="0"/>
+      <level preload="1" height="449" width="449" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" info="" longitude="" description="" source="" comment="" tags="01 - Pano" author="" copyright="" datetime="" latitude="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" width="180" borderradius="1" enabled="1" border="1" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627"/>
+      <hotspot title="" skinid="ht_node" id="Point01" description="" pan="-359.21" url="{node2}" target="" tilt="-52.21"/>
+      <hotspot title="" skinid="ht_image" id="Point02" description="" pan="-116.59" url="images/2021-01-06 21_49_13-Количка и кош за новородено Xari Snow White 2в1 - BABY LIFE МАЛЕЧКО.png" target="" tilt="-15.64"/>
+      <hotspot title="" skinid="ht_image" id="Point03" description="" pan="-48.16" url="images/2021-01-06 22_50_41-Количка и кош за новородено Mima Xari London Black Limited 2в1 - BABY LIFE МАЛЕЧ.png" target="" tilt="-9.49"/>
+      <hotspot title="" skinid="ht_image" id="Point04" description="" pan="-22.02" url="images/2021-01-06 21_45_22-Количка и кош за новородено Xari Camel 2в1 - BABY LIFE МАЛЕЧКО.png" target="" tilt="-4.99"/>
+      <hotspot title="" skinid="ht_node" id="Point05" description="" pan="-0.22" url="{node3}" target="" tilt="-27.96"/>
+      <hotspot title="" skinid="ht_node" id="Point06" description="" pan="-359.96" url="{node4}" target="" tilt="-20.13"/>
+      <hotspot title="" skinid="ht_image" id="Point07" description="" pan="-95.74" url="images/2021-01-06 22_58_23-Car seat Mima IziGo Modular X1- Snow White - BABY LIFE МАЛЕЧКО.png" target="" tilt="-29.88"/>
+      <hotspot title="" skinid="ht_image" id="Point08" description="" pan="-15.01" url="images/2021-01-06 22_45_08-Количка Mima Zigi - Argento - BABY LIFE МАЛЕЧКО.png" target="" tilt="-5.48"/>
+      <hotspot title="" skinid="ht_image" id="Point09" description="" pan="-12.56" url="images/2021-01-06 22_44_44-Количка Mima Zigi - Champagne - BABY LIFE МАЛЕЧКО.png" target="" tilt="-3.87"/>
+      <hotspot title="" skinid="ht_node" id="Point10" description="" pan="-359.99" url="{node5}" target="" tilt="-15.44"/>
+      <hotspot title="" skinid="ht_node" id="Point11" description="" pan="-359.94" url="{node6}" target="" tilt="-11.86"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" zoomfov="20" blendtime="1" enabled="1" softedge="0" zoomin="0" zoomout="0" type="crossdissolve"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" speedwheel="1" invertwheel="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" height="1796" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="1796">
+      <level preload="0" height="1796" width="1796" predecode="0"/>
+      <level preload="0" height="898" width="898" predecode="0"/>
+      <level preload="1" height="449" width="449" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" info="" longitude="" description="" source="" comment="" tags="02 - Pano" author="" copyright="" datetime="" latitude="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" width="180" borderradius="1" enabled="1" border="1" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627"/>
+      <hotspot title="" skinid="ht_node" id="Point01" description="" pan="-1.4" url="{node3}" target="" tilt="-50.58"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" zoomfov="20" blendtime="1" enabled="1" softedge="0" zoomin="0" zoomout="0" type="crossdissolve"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" speedwheel="1" invertwheel="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" height="1796" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="1796">
+      <level preload="0" height="1796" width="1796" predecode="0"/>
+      <level preload="0" height="898" width="898" predecode="0"/>
+      <level preload="1" height="449" width="449" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" info="" longitude="" description="" source="" comment="" tags="03 - Pano" author="" copyright="" datetime="" latitude="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" width="180" borderradius="1" enabled="1" border="1" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627"/>
+      <hotspot title="" skinid="ht_node" id="Point01" description="" pan="-3.5" url="{node4}" target="" tilt="-49.84"/>
+      <hotspot title="" skinid="ht_image" id="Point02" description="" pan="-70.81" url="images/2021-01-06 21_45_22-Количка и кош за новородено Xari Camel 2в1 - BABY LIFE МАЛЕЧКО.png" target="" tilt="-12.15"/>
+      <hotspot title="" skinid="ht_image" id="Point03" description="" pan="-134.11" url="images/2021-01-06 22_20_42-Количка и кош за новородено Xari Black 2в1 - BABY LIFE МАЛЕЧКО.png" target="" tilt="-8.79"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" zoomfov="20" blendtime="1" enabled="1" softedge="0" zoomin="0" zoomout="0" type="crossdissolve"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" speedwheel="1" invertwheel="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" height="1796" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="1796">
+      <level preload="0" height="1796" width="1796" predecode="0"/>
+      <level preload="0" height="898" width="898" predecode="0"/>
+      <level preload="1" height="449" width="449" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" info="" longitude="" description="" source="" comment="" tags="04 - Pano" author="" copyright="" datetime="" latitude="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" width="180" borderradius="1" enabled="1" border="1" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627"/>
+      <hotspot title="" skinid="ht_node" id="Point01" description="" pan="-0.46" url="{node5}" target="" tilt="-51.82"/>
+      <hotspot title="" skinid="ht_image" id="Point02" description="" pan="-32.46" url="images/2021-01-06 22_44_44-Количка Mima Zigi - Champagne - BABY LIFE МАЛЕЧКО.png" target="" tilt="-8.24"/>
+      <hotspot title="" skinid="ht_image" id="Point03" description="" pan="-40.96" url="images/2021-01-06 22_45_08-Количка Mima Zigi - Argento - BABY LIFE МАЛЕЧКО.png" target="" tilt="-12.55"/>
+      <hotspot title="" skinid="ht_image" id="Point04" description="" pan="-51.52" url="images/2021-01-06 22_48_20-Стол за кола Mima IziGo Modular X1 - Black - BABY LIFE МАЛЕЧКО.png" target="" tilt="-25.52"/>
+      <hotspot title="" skinid="ht_image" id="Point05" description="" pan="-117.59" url="images/2021-01-06 21_45_22-Количка и кош за новородено Xari Camel 2в1 - BABY LIFE МАЛЕЧКО.png" target="" tilt="-10.94"/>
+      <hotspot title="" skinid="ht_image" id="Point06" description="" pan="-161.08" url="images/2021-01-06 21_49_13-Количка и кош за новородено Xari Snow White 2в1 - BABY LIFE МАЛЕЧКО.png" target="" tilt="-5.41"/>
+      <hotspot title="" skinid="ht_image" id="Point07" description="" pan="-151.41" url="images/2021-01-06 22_50_41-Количка и кош за новородено Mima Xari London Black Limited 2в1 - BABY LIFE МАЛЕЧ.png" target="" tilt="-6.27"/>
+      <hotspot title="" skinid="ht_image" id="Point08" description="" pan="-94.66" url="images/2021-01-06 22_54_06-Стол за кола Mima IziGo Modular X1 - Camel - BABY LIFE МАЛЕЧКО.png" target="" tilt="-30.38"/>
+      <hotspot title="" skinid="ht_image" id="Point09" description="" pan="-133.97" url="images/2021-01-06 22_56_19-Стол за кола IziGo - Argento - BABY LIFE МАЛЕЧКО.png" target="" tilt="-23.01"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" zoomfov="20" blendtime="1" enabled="1" softedge="0" zoomin="0" zoomout="0" type="crossdissolve"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" speedwheel="1" invertwheel="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" height="1796" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="1796">
+      <level preload="0" height="1796" width="1796" predecode="0"/>
+      <level preload="0" height="898" width="898" predecode="0"/>
+      <level preload="1" height="449" width="449" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" info="" longitude="" description="" source="" comment="" tags="05 - Pano" author="" copyright="" datetime="" latitude="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" width="180" borderradius="1" enabled="1" border="1" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627"/>
+      <hotspot title="" skinid="ht_node" id="Point01" description="" pan="-358.87" url="{node6}" target="" tilt="-51.25"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" zoomfov="20" blendtime="1" enabled="1" softedge="0" zoomin="0" zoomout="0" type="crossdissolve"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" speedwheel="1" invertwheel="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" height="1796" levelbiashidpi="1.000" levelbias="0.400" levelingroll="0" width="1796">
+      <level preload="0" height="1796" width="1796" predecode="0"/>
+      <level preload="0" height="898" width="898" predecode="0"/>
+      <level preload="1" height="449" width="449" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" info="" longitude="" description="" source="" comment="" tags="06 - Pano" author="" copyright="" datetime="" latitude="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" width="180" borderradius="1" enabled="1" border="1" textcolor="0x000000" textalpha="1" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627"/>
+      <hotspot title="" skinid="ht_node" id="Point01" description="" pan="-175.96" url="{node1}" target="" tilt="-12.43"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" zoomfov="20" blendtime="1" enabled="1" softedge="0" zoomin="0" zoomout="0" type="crossdissolve"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" speedwheel="1" invertwheel="0" contextprojections="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" info="" longitude="" description="" source="" comment="" tags="" author="" copyright="" datetime="" latitude="" customnodeid=""/>
+  </masternode>
+</tour>
