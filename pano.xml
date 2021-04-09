@@ -45,6 +45,7 @@
       <hotspot url="" pan="-341.74" title="Събориха най-големия тютюнев склад в Пловдив" description="Събориха емблематична сграда в центъра на Пловдив - най-големия тютюнев склад - &quot;Ориента&quot;. Унищожаването на сградата става само ден преди тя да бъде обявена за паметник на културата, съобщава Нова телевизия. Някогашният тютюнев склад е реституиран преди 7 години и сградата е частна собственост. Архитектурната забележитгелност не е вписана за паметник на културата заради техническа грешка от местната администрация. Точно утре тази грешка е трябвало да бъде отстранена. &quot;Той е в списъка на най-ценните тютюневи складове, които са обявени за паметници на културата. Точно там на първия етаж са стенописите на големия български живописец Вълчан Петров&quot;, разказва културологът Пенка Калинкова." target="" id="Point01" tilt="20.55" skinid="ht_info"/>
       <hotspot url="{node6}" pan="-310.03" title="Към другите складове" description="" target="" id="Point02" tilt="9.94" skinid="ht_node"/>
       <hotspot url="{node7}" pan="-118.31" title="" description="" target="" id="Point03" tilt="-2.03" skinid="ht_node"/>
+      <hotspot url="{node15}" pan="-310.66" title="" description="" target="" id="Point04" tilt="-0.17" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" blendcolor="0x000000" enabled="1" softedge="0" zoomspeed="2" zoomin="0"/>
@@ -68,7 +69,7 @@
     <hotspots width="180" wordwrap="1" height="20">
       <label backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" wordwrap="1" textcolor="0x000000" background="1" backgroundalpha="1" borderradius="1" height="20" border="1" enabled="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot url="{node5}" pan="-179.19" title="Обратно към съборения склад" description="" target="" id="Point01" tilt="-3.83" skinid="ht_node"/>
+      <hotspot url="{node15}" pan="-179.19" title="Обратно към съборения склад" description="" target="" id="Point01" tilt="-3.83" skinid="ht_node"/>
       <hotspot url="" pan="-48.95" title="Тютюнев Комбинат Родопи" description="Сградите в Тютюневия град са строени в края на 19-и и началото на 20-и век. След национализацията складовете и тютюневите фабрики стават собственост на фабрика &quot;Родопи&quot;, а след това са част от &quot;Булгартабак&quot;. В последните 30-ина години постепенно са приватизирани." target="" id="Point02" tilt="17.83" skinid="ht_info"/>
       <hotspot url="images/DucZzyOWsAAwEpN.jpg" pan="-359.45" title="" description="" target="" id="Point03" tilt="13.12" skinid="ht_image"/>
       <hotspot url="{node8}" pan="-267.72" title="" description="" target="" id="Point04" tilt="-0.09" skinid="ht_node"/>
@@ -201,7 +202,6 @@
       <label backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" wordwrap="1" textcolor="0x000000" background="1" backgroundalpha="1" borderradius="1" height="20" border="1" enabled="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
       <hotspot url="{node11}" pan="-272.76" title="" description="" target="" id="Point01" tilt="-2.56" skinid="ht_node"/>
-      <hotspot url="" pan="-183.5" title="" description="" target="_blank" id="Point02" tilt="-28.45" skinid="ht_url"/>
     </hotspots>
     <media/>
     <transition zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" blendcolor="0x000000" enabled="1" softedge="0" zoomspeed="2" zoomin="0"/>
@@ -275,6 +275,8 @@
     <hotspots width="180" wordwrap="1" height="20">
       <label backgroundcolor="0xffffff" width="180" textalpha="1" borderalpha="1" wordwrap="1" textcolor="0x000000" background="1" backgroundalpha="1" borderradius="1" height="20" border="1" enabled="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot url="{node5}" pan="-165.94" title="" description="" target="" id="Point01" tilt="-1.11" skinid="ht_node"/>
+      <hotspot url="{node6}" pan="-357.6" title="" description="" target="" id="Point02" tilt="0.47" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" blendcolor="0x000000" enabled="1" softedge="0" zoomspeed="2" zoomin="0"/>
