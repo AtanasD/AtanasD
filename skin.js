@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.0.2/17253
 // Filename: silhouette_v6.ggsk
-// Generated Tue Dec 22 23:41:00 2020
+// Generated Fri Apr 9 17:59:08 2021
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
